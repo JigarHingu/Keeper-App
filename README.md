@@ -42,6 +42,7 @@ npm start
 
 ## Folder Structure
 
+```keeper-app
 keeper-app/
 ├── client/                  # Frontend code (React)
 │   ├── components/          # React components
@@ -54,6 +55,7 @@ keeper-app/
 │   ├── server.js            # Entry point for the backend server
 │   └── ...
 └── ...
+```
 
 
 
