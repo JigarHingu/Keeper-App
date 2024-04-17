@@ -23,11 +23,11 @@ Keeper is a note-taking application built with React for the frontend and Node.j
 2. Navigate to the project directory.
 3. Install dependencies:
 
-npm install
+* npm install
 
 4. Start the backend server:
 
-npm start
+* npm start
 
 5. Open another terminal and navigate to the client directory.
 6. Start the frontend development server:
@@ -43,17 +43,18 @@ npm start
 ## Folder Structure
 
 keeper-app/
-├── client/ # Frontend code (React)
-│ ├── components/ # React components
-│ ├── App.jsx # Main React application component
-│ ├── index.js # Entry point for the React application
-│ └── ...
-├── server/ # Backend code (Node.js with Express)
-│ ├── models/ # Mongoose models
-│ ├── routes/ # Express routes
-│ ├── server.js # Entry point for the backend server
-│ └── ...
+├── client/                  # Frontend code (React)
+│   ├── components/          # React components
+│   ├── App.jsx              # Main React application component
+│   ├── index.js             # Entry point for the React application
+│   └── ...
+├── server/                  # Backend code (Node.js with Express)
+│   ├── models/              # Mongoose models
+│   ├── routes/              # Express routes
+│   ├── server.js            # Entry point for the backend server
+│   └── ...
 └── ...
+
 
 
 ## Contributing
