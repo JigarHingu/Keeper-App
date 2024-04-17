@@ -32,7 +32,7 @@ Keeper is a note-taking application built with React for the frontend and Node.j
 5. Open another terminal and navigate to the client directory.
 6. Start the frontend development server:
 
-npm start
+* npm start
 
 ## Backend API Endpoints
 * `GET /notes`: Get all notes.
